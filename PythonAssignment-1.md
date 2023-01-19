@@ -217,3 +217,6 @@ Ans
             break
 
     print("Numbers divisible by 5 = ",lizt)
+
+Completed the assignment
+
